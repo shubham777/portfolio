@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>/</link>
+    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Preparation &amp; Analysis</title>
+      <link>/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/service3/</guid>
+      <description>Transforming raw data via ETL processes followed by uncovering valuable insights and patterns with comprehensive Exploratory Data Analysis (EDA) for informed decision-making.</description>
+    </item>
+    <item>
+      <title>Predicting AirBnB Prices in New York</title>
+      <link>/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project1/</guid>
+      <description>Description: I spearheaded a transformative project aimed at predicting Airbnb listing prices in New York City, harnessing regression models and a comprehensive dataset containing over 48,000 listings. This dataset, sourced from Kaggle, encompasses critical details such as location, room type, reviews, availability, and host information.&#xA;Key Project Phases: Exploratory Data Analysis (EDA): Utilized powerful visualization techniques to understand feature distribution and relationships, guiding feature selection for modeling and visualized correlations among numerical features using Seaborn heatmap.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>Hey there! </description>
+    </item>
+    <item>
+      <title>Dashboard Development</title>
+      <link>/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/service1/</guid>
+      <description>Designing and implementing dashboards and reports for stakeholders to monitor business performance in real-time.</description>
+    </item>
+    <item>
+      <title>Global Terrorism Trends Visualization Tool</title>
+      <link>/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project2/</guid>
+      <description>Description: I spearheaded the development of an advanced data visualization tool centered around the Global Terrorism Database (GTD), meticulously exploring terrorism trends from 1970 to 2017. This interactive platform, carefully tailored with 14 critical variables encompassing dates, locations, tactics, perpetrators, targets, and fatalities, offers an in-depth exploration of global terrorism dynamics.&#xA;Key Features: Utilized Bokeh and Panel to deliver an immersive and insightful user interface. Focused on a curated dataset, facilitating comprehensive analysis of terrorism&amp;rsquo;s multifaceted aspects.</description>
+    </item>
+    <item>
+      <title>What I have to offer?</title>
+      <link>/home/services/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Areas of Interest</title>
+      <link>/portfolio/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/portfolio/interests/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Strategy Consulting</title>
+      <link>/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/service2/</guid>
+      <description>Advising on data collection, storage, and utilization strategies aligned with business objectives and compliance standards.</description>
+    </item>
+    <item>
+      <title>Donation Fundraising Marketing Campaign Analysis</title>
+      <link>/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project3/</guid>
+      <description>Overview: This project revolves around predicting individual donation likelihood and anticipated donation amounts (in €) for a charity fundraising campaign (&amp;ldquo;SJ22&amp;rdquo;). By amalgamating these predictions, the aim is to estimate the expected revenue for each individual. The core strategy involves recommending solicitation to potential donors only if the projected revenue exceeds the solicitation cost (2.00 €), ensuring a positive profit margin. Conversely, if the projected revenue falls short, the recommendation is to avoid solicitation to prevent a net loss.</description>
+    </item>
+    <item>
+      <title>What I have to offer?</title>
+      <link>/offerings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/offerings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actor Co-occurrence Network Link prediction</title>
+      <link>/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project5/</guid>
+      <description>Overview: The project focuses on link prediction within an actor co-occurrence network, where nodes represent actors and edges indicate co-occurrence on the same Wikipedia page. Leveraging both graph structure and node attribute features, the objective is to predict missing or future edges using machine learning models. The dataset consisted a directed graph comprising 10k node pairs, where edges denote co-occurrence on the same Wikipedia page.&#xA;Methodology: Graph Creation: Populated an empty graph with nodes from node features, establishing actor relationships and facilitating powerful embeddings representing Wikipedia page subjects and environments.</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>/portfolio/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/portfolio/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hurricane_harvey_UAV-Image-Segmentation</title>
+      <link>/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project6/</guid>
+      <description>Objective: The project aimed to develop a semantic image segmentation model leveraging remotely sensed data post-Hurricane Harvey in Houston, Texas. The focus was on accurately identifying common assets in residential areas by segmenting high-resolution photographs captured by a small UAV. The dataset consisted of 299 images with dense segmentation masks containing 27 classes like Property Roof, Swimming Pool, Vehicle, etc.&#xA;Methodology: Data Augmentation: Enhanced dataset quality using image augmentations: horizontal flip, brightness/contrast/color adjustments, blurring, sharpening, Gaussian noise, and normalization.</description>
+    </item>
+    <item>
+      <title>Market Research &amp; Segmentation</title>
+      <link>/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/service4/</guid>
+      <description>Using data to understand target markets, customer behavior, and segmenting audiences for targeted strategies.</description>
+    </item>
+    <item>
+      <title>Methane Detection</title>
+      <link>/project9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project9/</guid>
+      <description>Overview: The challenge at hand involved identifying and localizing methane leaks in the atmosphere using a dataset comprising 64x64 grayscale satellite images from diverse locations. The primary goal was to develop a robust deep learning model capable of accurately discerning whether a specific location exhibits a methane plume or not. This was a team effort along with other contributors including Congjie AN, Vanshika Jain, Oluwafisayomi BADARU, Tunç EREN and Corentin DELLOYE.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/portfolio/</guid>
+      <description>ASAS</description>
+    </item>
+    <item>
+      <title>Robotic Process Automation</title>
+      <link>/project8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project8/</guid>
+      <description>Overview: The project focused on leveraging Robotic Process Automation (RPA) methodologies using Selenium and Python in multiple use cases, primarily targeting automation within Gmail and LinkedIn platforms.&#xA;Use Cases: Automated Gmail Login: Designed and implemented an automated process to log in to Gmail accounts, streamlining the authentication process and eliminating manual intervention. -Bulk Email Sending: Extended the Gmail automation to include the bulk sending of emails. This involved not only the login automation but also the seamless sending of bulk emails, significantly reducing time and effort.</description>
+    </item>
+    <item>
+      <title>Transformers and Convolutional Networks for Masked Face Recognition</title>
+      <link>/project7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project7/</guid>
+      <description>In response to the widespread use of face masks during the COVID-19 pandemic, investigating their impact on face recognition systems became crucial. The 2022 research led by Al-Sinan et al. laid the groundwork in this area.&#xA;Dataset and Pre-trained Models The proposed system was tested on a synthetically masked LFW dataset generated in this study. Moreover, the MAFA and RFMR datasets were used to verify the robustness of the proposed methodology.</description>
+    </item>
+    <item>
+      <title>US-Stock-Market-Analysis</title>
+      <link>/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project4/</guid>
+      <description>Overview: This study offers an in-depth network analysis of S&amp;amp;P 500 stocks from 2018 to 2022, specifically examining stock connectivity and its evolution during significant events such as the COVID-19 pandemic. The methodology encompasses multi-step procedures involving data collection, detrending, calculation of correlation matrices, and network construction utilizing the Winner-Take-All (WTA) method as detailed in the referenced paper. Leveraging this approach, the project successfully visualizes stock market dynamics, identifying key properties and community structures within the network.</description>
+    </item>
+    <item>
+      <title>Career Path</title>
+      <link>/career/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certifications</title>
+      <link>/portfolio/certifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/portfolio/certifications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive Modeling</title>
+      <link>/home/services/service5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/service5/</guid>
+      <description>Developing models to forecast future trends or outcomes based on historical data patterns.</description>
+    </item>
+    <item>
+      <title>Business Process Optimization</title>
+      <link>/home/services/service6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/services/service6/</guid>
+      <description>Identifying inefficiencies in workflows and suggesting data-driven improvements for enhanced productivity.</description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/hobbies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testimonials</title>
+      <link>/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/testimonials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Let&#39;s Collaborate :)</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
+      <description>heading 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.&#xA;Heading 2 Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/subheader/</guid>
+      <description>Fueled by curiosity, traversing the chessboard of insights at the nexus of data and strategy with a focus to paint the bigger picture.</description>
+    </item>
+  </channel>
+</rss>
